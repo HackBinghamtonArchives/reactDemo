@@ -1,6 +1,6 @@
-This project brings you throught the basics of react. We go over how to use react in a standard webpage in standalone.html
+This project brings you through the basics of react. We go over how to use react in a standard webpage in standalone.html
 
-We also walk you through how to work with the create-react-app framework and how to add new components, containers and css. All that code can be found under the src folder. Below is the an auto generated readme from react that has a ton of useful information.
+We also walk you through how to work with the create-react-app framework and how to add new components, containers and css. All that code can be found under the src folder. Below is the auto generated readme from react that has a ton of useful information.
 
 To get it running make sure you have node and npm installed. Then
 
