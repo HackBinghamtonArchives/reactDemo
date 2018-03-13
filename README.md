@@ -9,6 +9,8 @@ git clone https://github.com/HackBinghamton/reactDemo.git
 
 cd reactDemo
 
+npm install -g yarn
+
 npm install
 
 yarn start
