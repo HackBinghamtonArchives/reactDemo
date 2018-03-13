@@ -1,3 +1,15 @@
+This project brings you throught the basics of react. We go over how to use react in a standard webpage in standalone.html
+
+We also walk you through how to work with the create-react-app framework and how to add new components, containers and css. All that code can be found under the src folder. Below is the an auto generated readme from react that has a ton of useful information.
+
+Oh and the repo is rocket themed
+
+![alt text](https://cdn.arstechnica.net/wp-content/uploads/2016/09/marsmariachi.jpg "Photo of musk and friends during the early spaceX days")
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
