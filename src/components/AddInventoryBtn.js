@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import "../css/addInventoryBtn.css";
 
 export default class AddInventoryBtn extends Component{
   // you can access props via this.props
@@ -12,7 +13,7 @@ export default class AddInventoryBtn extends Component{
   }
   render() {
     return (
-      <button onClick={() => {
+      <button className="incBtn" onClick={() => {
         this.props.incrementInventory(this.props.partId);
       }}>+</button>
     )

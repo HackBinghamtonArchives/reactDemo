@@ -1,0 +1,12 @@
+.incBtn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 20%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+}

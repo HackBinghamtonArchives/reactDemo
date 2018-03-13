@@ -146,7 +146,7 @@ class RocketComponentListContainer extends Component {
           {this.state.rocketInventory.map((partObject) => {
               return (<tr>
                         <td>{partObject.name}</td>
-                        <td>
+                        <td style={{"text-align": "center"}}>
                           {partObject.inventory} <AddInventoryBtn
                                                       partId={partObject.id}
                                                       incrementInventory={this.incrementInventory}
