@@ -1,0 +1,44 @@
+<html>
+
+<head>
+</head>
+<body>
+  <div id='root'></div>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.min.js"></script>
+
+<script type="text/babel">
+//the first two script imports give us access to the 'React' and 'ReactDom' objects
+// we need the last one to compile our es6 to javascript
+
+
+// var d = new Date()
+// var rocketInteralClock = <h1>The current time is {d.getTime()}</h1>
+
+class RocketComponentList extends React.Component {
+  render() {
+    return(
+      <div>
+        We have 3 things to buy!
+        <ol>
+          <li>Rocket Propellant</li>
+          <li>Titanium Gridfins</li>
+          <li>9 Merlin D engines</li>
+        </ol>
+      </div>
+    )
+  }
+}
+
+  ReactDOM.render(
+    // (<h1>Hello Mars</h1>), // you can just put plain html as the first argument and it will get inserted into the root div above
+    // rocketInteralClock, // you can also use variables
+    <RocketComponentList />, // and even classes
+    document.getElementById('root')
+  )
+</script>
+
+</html>
