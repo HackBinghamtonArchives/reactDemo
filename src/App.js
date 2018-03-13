@@ -2,10 +2,12 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import RocketComponentListContainer from './containers/RocketComponentListContainer';
+
 class App extends Component {
   render() {
     return (
-      
+      <RocketComponentListContainer />
     );
   }
 }
