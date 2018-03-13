@@ -2,6 +2,19 @@ This project brings you throught the basics of react. We go over how to use reac
 
 We also walk you through how to work with the create-react-app framework and how to add new components, containers and css. All that code can be found under the src folder. Below is the an auto generated readme from react that has a ton of useful information.
 
+To get it running make sure you have node and npm installed. Then
+
+```
+git clone https://github.com/HackBinghamton/reactDemo.git
+
+cd reactDemo
+
+npm install
+
+yarn start
+```
+
+
 Oh and the repo is rocket themed
 
 ![alt text](https://cdn.arstechnica.net/wp-content/uploads/2016/09/marsmariachi.jpg "Photo of musk and friends during the early spaceX days")
