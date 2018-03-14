@@ -1,0 +1,24 @@
+
+blog.teamtreehouse.com/install-node-js-npm-windows
+blog.teamtreehouse.com/install-node-js-npm-mac
+blog.teamtreehouse.com/install-node-js-npm-linux
+
+Run through what it is and why its important
+
+// The idea of react
+http://noeticforce.com/sites/default/files/uimockscript.png
+
+//useful chrome extension
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+//example sites
+//facebook, instagram, airbnb, khan academy, nytimes
+
+// before we start
+// if a concept is confusing, just ring the bell and i'll explain again!
+//https://www.soundsnap.com/tags/desk_bell
+
+npm install -g create-react-app
+
+then lets create a new file called standalone.html
+Lets get started

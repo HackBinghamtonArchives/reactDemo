@@ -16,6 +16,8 @@ npm install
 yarn start
 ```
 
+this project was created with the ```create-react-app``` tool. You can install it with ```npm install create-react-app```. You can then create a new project with ```create-react-app my-new-project-name```
+
 
 Oh and the repo is rocket themed
 

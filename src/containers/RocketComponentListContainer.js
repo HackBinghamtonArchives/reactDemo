@@ -138,6 +138,7 @@ class RocketComponentListContainer extends Component {
         </ol>
 
         <p>See below for our current inventory</p>
+        <p>Make sure to add to our inventory when you buy something</p>
         <table>
           <tr>
             <th>Part Name</th>
